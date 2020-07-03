@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/UnityChanUSS/Scenes/Custom/Unitychan_USS_HairColor.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
